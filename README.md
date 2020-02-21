@@ -10,3 +10,5 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 You should have received a copy of the GNU General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 *Instructions*: The jupyter notebook will produce a track image, a caustic pattern (with track overlaid) and a light curve (point source). You can change settings in the first cell.
+
+For detailed information about the technique, see https://ui.adsabs.harvard.edu/abs/1993ApJ...403..530W

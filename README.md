@@ -1,5 +1,5 @@
 # lightcurvefinder
-python implementation of the Witt (1993) technique to compute gravitational microlensing light curves for an ensemblae of point masses with shear
+python implementation of the Witt (1993) technique to compute gravitational microlensing light curves for an ensemble of point masses with shear.
 
 Copyright 2020 Robert W. Schmidt rschmidthd at gmail.com
 
